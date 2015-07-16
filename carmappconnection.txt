@@ -10,6 +10,6 @@ Hi all
 Test functionmulti(a,b)
 {
 a=10
-b=1
+b=2
 return a*b
 }
