@@ -1,0 +1,20 @@
+Test function(a,b)
+{
+a=10
+b=1
+return a+b
+}
+
+Hi all
+
+Test functionmulti(a,b)
+{
+a=10
+b=2
+return a*b
+}
+
+
+test function3()
+
+test function4()
